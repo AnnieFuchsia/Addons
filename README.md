@@ -1,5 +1,4 @@
 # Addons
-Set of my addon configurations.
 
 Close your WoW game for changes to take effect.
 
